@@ -12,6 +12,7 @@ import { backgroundSizeMap } from './constant';
 
 const Panel = Collapse.Panel;
 interface fontProps {
+  
   styleData: StyleData | any;
   onStyleChange?: onStyleChange;
   unit?: string;
